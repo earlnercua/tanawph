@@ -18,5 +18,6 @@ export default defineConfig({
         }
     ]})
   ],
-  base: process.env.VITE_BASE_PATH || '/tanawph'
+  // base: process.env.VITE_BASE_PATH || '/tanawph'
+  base: './'
 })
