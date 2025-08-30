@@ -40,7 +40,7 @@ const HomePage = () => {
 
             <div className="flex items-center justify-center basis-full">
               <h2 className='text-xl'>Powered By</h2>
-            <img className='size-20 ml-2' src="../src/assets/images/icon_tawi.svg" alt="" />
+            <img className='size-20 ml-2' src="./assets/images/icon_tawi.svg" alt="" />
             </div>
 
             <h1 className='text-7xl font-bold text-center pb-8'>Don't scroll blind. Take back your power.</h1>
