@@ -59,7 +59,7 @@ const MilPage = () => {
 
             <div className="flex flex-wrap items-center justify-center rounded-2xl overflow-hidden shadow-[0_0_8px_2px_rgba(0,0,0,0.125)] mb-8">
               <div className="flex basis-full items-center justify-start border-b-1 border-gray-400">
-                <img src="../assets/images/image_digitaldangers1.svg" className='size-50' />
+                <img src="../assets/images/image_digitaldangers0001.svg" className='size-50' />
                 <div className="flex flex-wrap items-center justify-start ml-4">
                   <h2 className='basis-full text-2xl font-bold'>COVID-19 Infodemic</h2>
                   <CalendarDays className='size-5 stroke-gray-600 mr-2' />
@@ -71,7 +71,7 @@ const MilPage = () => {
 
             <div className="flex flex-wrap items-center justify-center rounded-2xl overflow-hidden shadow-[0_0_8px_2px_rgba(0,0,0,0.125)] mb-8">
               <div className="flex basis-full items-center justify-start border-b-1 border-gray-400">
-                <img src="../assets/images/image_digitaldangers2.svg" className='size-50' />
+                <img src="../assets/images/image_digitaldangers0002.svg" className='size-50' />
                 <div className="flex flex-wrap items-center justify-start ml-4">
                   <h2 className='basis-full text-2xl font-bold'>Fake news & The 2016 US Elections </h2>
                   <CalendarDays className='size-5 stroke-gray-600 mr-2' />
@@ -83,7 +83,7 @@ const MilPage = () => {
 
             <div className="flex flex-wrap items-center justify-center rounded-2xl overflow-hidden shadow-[0_0_8px_2px_rgba(0,0,0,0.125)] mb-8">
               <div className="flex basis-full items-center justify-start border-b-1 border-gray-400">
-                <img src="../assets/images/image_digitaldangers3.svg" className='size-50' />
+                <img src="../assets/images/image_digitaldangers0003.svg" className='size-50' />
                 <div className="flex flex-wrap items-center justify-start ml-4">
                   <h2 className='basis-full text-2xl font-bold'>The Blue Whale Challenge</h2>
                   <CalendarDays className='size-5 stroke-gray-600 mr-2' />
