@@ -7,7 +7,14 @@ import tailwindcss from '@tailwindcss/vite'
 export default defineConfig({
   plugins: [
     react(),
-    tailwindcss()
+    tailwindcss(),
+    viteStaticCopy({
+      targets: [
+        {
+          src: 'src/assets/images',
+          dest: 'assets'
+        }
+    ]})
   ],
   base: process.env.VITE_BASE_PATH || '/tanawph'
 })
