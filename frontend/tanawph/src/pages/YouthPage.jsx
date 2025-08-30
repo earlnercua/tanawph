@@ -71,7 +71,7 @@ const YouthPage = () => {
           </div>
 
           <div className="flex flex-wrap w-full h-fill rounded-xl overflow-hidden shadow-[0px_0px_4px_4px_rgba(0,0,0,0.25)] my-6">
-            <img className='basis-full' src="./src/assets/images/image_youthtalks1.svg" alt="" />
+            <img className='basis-full' src="./assets/images/image_youthtalks1.svg" alt="" />
             <div className="w-full h-fill">
               <h4 className='font-bold text-xl p-4'>Sara Duterte Impeachment</h4>
               <p className='text-gray-400 p-4'>Exploring its political impact, how media frames the issue, and what it means for young people’s role in democracy.</p>

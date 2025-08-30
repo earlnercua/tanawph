@@ -6,16 +6,16 @@ const Footer = () => {
         <div className="flex items-center justify-end border-b-1 border-gray-400 space-x-4 py-4">
 
             <a href=''>
-                <img src="../src/assets/images/icons_facebook_colored.svg" className='size-6'/>
+                <img src="../assets/images/icons_facebook_colored.svg" className='size-6'/>
             </a>
             <a href=''>
-                <img src="../src/assets/images/icons_tiktok_colored.svg" className='size-6'/>
+                <img src="../assets/images/icons_tiktok_colored.svg" className='size-6'/>
             </a>
             <a href=''>
-                <img src="../src/assets/images/icons_instagram_colored.svg" className='size-6'/>
+                <img src="../assets/images/icons_instagram_colored.svg" className='size-6'/>
             </a>
             <a href=''>
-                <img src="../src/assets/images/icons_x_colored.svg" className='size-6'/>
+                <img src="../assets/images/icons_x_colored.svg" className='size-6'/>
             </a>
         </div>
         <div className="w-full flex items-center justify-between py-6">

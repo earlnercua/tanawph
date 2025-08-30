@@ -25,22 +25,22 @@ const InfographicsPage = () => {
 
           <div className="w-full h-fill grid grid-cols-2 grid-flow-row gap-2 my-6">
             <Link to='/mil/infographics/view/0001' className='size-full'>
-              <img className='size-full' src="../src/assets/images/image_infographics1.svg" />
+              <img className='size-full' src="../assets/images/image_infographics1.svg" />
             </Link>
             <Link to='/mil/infographics/view/0002' className='size-full'>
-              <img className='size-full' src="../src/assets/images/image_infographics1.svg" />
+              <img className='size-full' src="../assets/images/image_infographics1.svg" />
             </Link>
             <Link className='size-full'>
-              <img className='size-full' src="../src/assets/images/image_infographics1.svg" />
+              <img className='size-full' src="../assets/images/image_infographics1.svg" />
             </Link>
             <Link className='size-full'>
-              <img className='size-full' src="../src/assets/images/image_infographics1.svg" />
+              <img className='size-full' src="../assets/images/image_infographics1.svg" />
             </Link>
             <Link className='size-full'>
-              <img className='size-full' src="../src/assets/images/image_infographics1.svg" />
+              <img className='size-full' src="../assets/images/image_infographics1.svg" />
             </Link>
             <Link className='size-full'>
-              <img className='size-full' src="../src/assets/images/image_infographics1.svg" />
+              <img className='size-full' src="../assets/images/image_infographics1.svg" />
             </Link>
 
           </div>

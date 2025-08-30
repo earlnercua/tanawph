@@ -15,14 +15,14 @@ const content =[
             position:'President',
             level: 'National',
             duration:'2022-2028',
-            img: '../src/assets/images/image_official_placeholder1.png'
+            img: '../assets/images/image_official_placeholder1.png'
         },
         {
             name:'Maria Elena Dizon',
             position:'Vice President',
             level: 'National',
             duration:'2022-2028',
-            img: '../src/assets/images/image_official_placeholder2.png'
+            img: '../assets/images/image_official_placeholder2.png'
         }]
     },
     {

@@ -11,7 +11,7 @@ const InfographicsPosterViewPage = () => {
 
     const id = useParams().id;
     const [sharePopup, setPopup] = useState(false);
-    const url = `../../../src/assets/images/image_infographics${id}.svg`
+    const url = `../../../assets/images/image_infographics${id}.svg`
 
     console.log(sharePopup)
 

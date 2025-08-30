@@ -4,7 +4,7 @@ import { useParams } from 'react-router';
 
 const DownloadPage = () => {
   const { imageName } = useParams();
-  const imageUrl = `../src/assets/images/${imageName}`;
+  const imageUrl = `../assets/images/${imageName}`;
 
   return (
     <div className="flex flex-col items-center justify-center h-screen bg-[#2F2F2F]">

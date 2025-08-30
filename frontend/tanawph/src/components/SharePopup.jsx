@@ -9,31 +9,31 @@ const SharePopup = ({imgUrl, popup}) => {
                 <div className="w-full h-full flex-1 grid grid-cols-4 grid-flow-row bg-[#2F2F2F] py-4 px-8 gap-2">
 
                     <div className='flex flex-col items-center justify-center'>
-                        <img className='size-6' src="../../../src/assets/images/icon_copy.svg"/>
+                        <img className='size-6' src="../../../assets/images/icon_copy.svg"/>
                         <p className='text-white text-xs pt-2'>Copy Link</p>
                     </div>
                     <div className='flex flex-col items-center justify-center'>
-                        <img className='size-6' src="../../../src/assets/images/icon_instagram.svg"/>
+                        <img className='size-6' src="../../../assets/images/icon_instagram.svg"/>
                         <p className='text-white text-xs pt-2'>Messages</p>
                     </div>
                     <div className='flex flex-col items-center justify-center'>
-                        <img className='size-6' src="../../../src/assets/images/icon_instagram.svg"/>
+                        <img className='size-6' src="../../../assets/images/icon_instagram.svg"/>
                         <p className='text-white text-xs pt-2'>Stories</p>
                     </div>
                     <div className='flex flex-col items-center justify-center'>
-                        <img className='size-6' src="../../../src/assets/images/icon_facebook.svg"/>
+                        <img className='size-6' src="../../../assets/images/icon_facebook.svg"/>
                         <p className='text-white text-xs pt-2'>Stories</p>
                     </div>
                     <div className='flex flex-col items-center justify-center'>
-                        <img className='size-6' src="../../../src/assets/images/icon_facebook.svg"/>
+                        <img className='size-6' src="../../../assets/images/icon_facebook.svg"/>
                         <p className='text-white text-xs pt-2'>Feed</p>
                     </div>
                     <div className='flex flex-col items-center justify-center'>
-                        <img className='size-6' src="../../../src/assets/images/icon_messenger.svg"/>
+                        <img className='size-6' src="../../../assets/images/icon_messenger.svg"/>
                         <p className='text-white text-xs pt-2'>Messages</p>
                     </div>
                     <div className='flex flex-col items-center justify-center'>
-                        <img className='size-6' src="../../../src/assets/images/icon_x.svg"/>
+                        <img className='size-6' src="../../../assets/images/icon_x.svg"/>
                         <p className='text-white text-xs pt-2'>Posts</p>
                     </div>
                 </div>

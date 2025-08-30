@@ -40,25 +40,25 @@ const ElectionInfoPage = () => {
                         <h3 className='font-bold text-2xl'>Posters</h3>
                         <div className='w-full grid grid-cols-2 grid-flow-row gap-8 '>
                             <div className='rounded-2xl overflow-hidden' onClick={()=>setPosterPopup(1)}>
-                                <img className='w-full' src='../../src/assets/images/image_votingposter1.svg' />
+                                <img className='w-full' src='../../assets/images/image_votingposter1.svg' />
                                 <div className="relative bottom-28 w-full h-[20%] bg-[linear-gradient(to_bottom,rgba(235,94,85,0),rgba(235,94,85,1),rgba(255,199,88,1))] rounded-2xl">
                                     <h3 className='font-bold text-2xl text-white mx-6 pt-6'>How to vote for the first time</h3>
                                 </div>
                             </div>
                             <div className='rounded-2xl overflow-hidden' onClick={()=>setPosterPopup(2)}>
-                                <img className='w-full' src='../../src/assets/images/image_votingposter2.svg' />
+                                <img className='w-full' src='../../assets/images/image_votingposter2.svg' />
                                 <div className="relative bottom-28 w-full h-[20%] bg-[linear-gradient(to_bottom,rgba(235,94,85,0),rgba(235,94,85,1),rgba(255,199,88,1))] rounded-2xl">
                                     <h3 className='font-bold text-2xl text-white mx-6 pt-6'>How to vote for the first time</h3>
                                 </div>
                             </div>
                             <div className='rounded-2xl overflow-hidden' onClick={()=>setPosterPopup(3)}>
-                                <img className='w-full' src='../../src/assets/images/image_votingposter3.svg' />
+                                <img className='w-full' src='../../assets/images/image_votingposter3.svg' />
                                 <div className="relative bottom-28 w-full h-[20%] bg-[linear-gradient(to_bottom,rgba(235,94,85,0),rgba(235,94,85,1),rgba(255,199,88,1))] rounded-2xl">
                                     <h3 className='font-bold text-2xl text-white mx-6 pt-6'>How to vote for the first time</h3>
                                 </div>
                             </div>
                             <div className='rounded-2xl overflow-hidden' onClick={()=>setPosterPopup(4)}>
-                                <img className='w-full' src='../../src/assets/images/image_votingposter4.svg' />
+                                <img className='w-full' src='../../assets/images/image_votingposter4.svg' />
                                 <div className="relative bottom-28 w-full h-[20%] bg-[linear-gradient(to_bottom,rgba(235,94,85,0),rgba(235,94,85,1),rgba(255,199,88,1))] rounded-2xl">
                                     <h3 className='font-bold text-2xl text-white mx-6 pt-6'>How to vote for the first time</h3>
                                 </div>
@@ -121,7 +121,7 @@ const ElectionInfoPage = () => {
 
             <div className={`${posterPopup === null ? 'hidden':'fixed' } top-0 left-0 flex items-center w-screen h-screen bg-black opacity-50`} onClick={()=>setPosterPopup(null)} />
 
-            <SharePopup imgUrl={`../../src/assets/images/image_votingposter${posterPopup}.svg`} popup={posterPopup}/>
+            <SharePopup imgUrl={`../../assets/images/image_votingposter${posterPopup}.svg`} popup={posterPopup}/>
             
         </div>
     )
