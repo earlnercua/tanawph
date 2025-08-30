@@ -10,7 +10,7 @@ export const officialsArray =
                 position: 'President',
                 level: 'National',
                 duration: '2022-2028',
-                img: '../src/assets/images/image_official_placeholder1.png',
+                img: '../assets/images/image_official_placeholder1.png',
                 education: [
                     {
                         institution: 'St Edmund Hall, Harvard',
@@ -42,7 +42,7 @@ export const officialsArray =
                 position: 'Vice President',
                 level: 'National',
                 duration: '2022-2028',
-                img: '../src/assets/images/image_official_placeholder2.png',
+                img: '../assets/images/image_official_placeholder2.png',
                 education: [
                     {
                         institution: 'University of the Philippines',
@@ -69,7 +69,7 @@ export const officialsArray =
                 position: 'President',
                 level: 'National',
                 duration: '2022-2028',
-                img: '../src/assets/images/image_official_placeholder1.png',
+                img: '../assets/images/image_official_placeholder1.png',
                 education: [
                     {
                         institution: 'St Edmund Hall, Harvard',
