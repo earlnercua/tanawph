@@ -19,5 +19,9 @@ export default defineConfig({
     ]})
   ],
   // base: process.env.VITE_BASE_PATH || '/tanawph'
-  base: './'
+  base: './',
+  build: {
+    outDir: 'dist', // Default output folder
+    assetsDir: 'assets', // Folder for images and static files
+  }
 })
