@@ -1,0 +1,25 @@
+{
+  "name": "unesco-hackathon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "npm install --prefix backend && npm install --prefix frontend && npm run build --prefix frontend && vite build",
+    "dev": "vite",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/earlnercua/tanawph.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/earlnercua/tanawph/issues"
+  },
+  "homepage": "https://github.com/earlnercua/tanawph#readme",
+  "devDependencies": {
+    "vite": "^7.1.3"
+  }
+}
